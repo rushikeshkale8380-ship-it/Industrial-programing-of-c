@@ -1,9 +1,7 @@
-//Final industry level
-
 import java.util.Scanner;
-class NumberX
+class NumberX       
 {
-        public boolean CheckDivisible(int iNo)
+        public boolean CheckDivisible(int iNo)      //Function
     {
          if((iNo%3==0) && (iNo%5==0))
         {
